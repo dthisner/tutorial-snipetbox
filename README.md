@@ -1,6 +1,6 @@
 # tutorial-snipetbox
 
-Snipetbox based on book "Let's Go!" by Alex Edwards
+Snipetbox based on book "Let's Go!" by [Alex Edwards](https://www.alexedwards.net/)
 
 Been adding more unit tests then whats provided in the book.
 
