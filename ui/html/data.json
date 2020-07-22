@@ -1,0 +1,763 @@
+{
+  "story": {
+    "name": "Home",
+    "created_at": "2019-12-29T00:56:57.758Z",
+    "published_at": "2020-06-20T00:17:10.910Z",
+    "alternates": [],
+    "id": 5186027,
+    "uuid": "b0975afb-44e8-4d44-9cfa-5ff561f5ce47",
+    "content": {
+      "seo": {
+        "_uid": "b9fe5614-1c45-4c66-bfcd-a29e1b6b81dc",
+        "title": "Apply Digital | A Digital Product Studio",
+        "plugin": "seo_metatags",
+        "og_image": "//a.storyblok.com/f/72339/1920x1080/6c1eddb4d2/homepage.png",
+        "og_title": "Apply Digital",
+        "description": "Apply Digital makes and markets smart digital products. From the apps we design to the platforms we engineer, we're driven by an ambition to create world-class experiences that benefit people’s everyday lives.",
+        "twitter_image": "//a.storyblok.com/f/72339/1920x1080/6c1eddb4d2/homepage.png",
+        "twitter_title": "",
+        "og_description": "Apply Digital makes and markets smart digital products. From the apps we design to the platforms we engineer, we're driven by an ambition to create world-class experiences that benefit people’s everyday lives.",
+        "twitter_description": "Apply Digital makes and markets smart digital products. From the apps we design to the platforms we engineer, we're driven by an ambition to create world-class experiences that benefit people’s everyday lives."
+      },
+      "_uid": "0325797f-736e-47a5-a1ac-11e1571b4f8c",
+      "body": [
+        {
+          "_uid": "56fee39f-5873-4922-bddb-7cd4a3995aba",
+          "name": "Banner",
+          "content": "At Apply we have no tolerance for racism, prejudice, marginalization, or repression. **[Read our statement here.](/blog/apply-stands-with-black-lives-matter)**",
+          "close_btn": true,
+          "component": "banner",
+          "background": "dark",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"banner\", \"space\": \"72339\", \"uid\": \"56fee39f-5873-4922-bddb-7cd4a3995aba\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [],
+          "_uid": "2eb5b685-75aa-43d5-98dc-c1fa6a45ac62",
+          "align": "left",
+          "image": "",
+          "title": "We make and market smart digital products",
+          "video": "",
+          "content": "# We make and market *smart digital products*\n\n##### From the apps we design to the platforms we engineer, we're driven by an ambition to create world-class digital experiences that benefit people’s everyday lives.",
+          "test_id": "header-top",
+          "category": "",
+          "media_bg": false,
+          "component": "hero",
+          "background": "dark_gray",
+          "full_screen": false,
+          "image_layers": [
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/826x910/55e3524122/home_hero_phone_1.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/826x910/c13773baeb/home_hero_phone_2.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/826x910/8a469cdde4/home_hero_phone_3.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/826x910/6560a65996/home_hero_phone_4.png"
+            }
+          ],
+          "image_mobile": "//a.storyblok.com/f/72339/647x660/2e0e5e782e/homepagehero.png",
+          "vertical_align": "middle",
+          "background_image": "",
+          "vertical_position": "top",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"2eb5b685-75aa-43d5-98dc-c1fa6a45ac62\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "_uid": "34042523-c63e-4ef8-bc54-5c12965164d4",
+          "hero": [
+            {
+              "cta": [
+                {
+                  "_uid": "74e9c83c-09fe-4d93-8849-2a128293c411",
+                  "title": "View project",
+                  "notitle": false,
+                  "external": false,
+                  "typeform": false,
+                  "component": "link",
+                  "destination": {
+                    "id": "99215a80-9e5b-4e69-8cb2-13b7270c5419",
+                    "url": "",
+                    "_uid": "2ee5e79e-044f-4e23-9e68-2f10a592e32a",
+                    "anchor": "",
+                    "linktype": "story",
+                    "fieldtype": "multilink",
+                    "cached_url": "work/arcteryx"
+                  },
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"74e9c83c-09fe-4d93-8849-2a128293c411\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "_uid": "7121e26a-48a0-48e7-b223-2469c9067f67",
+              "align": "",
+              "image": "//a.storyblok.com/f/72339/1440x688/7761f1a087/climbing-beluga-by-arcteryx.png",
+              "title": "Arc'teryx",
+              "video": "",
+              "content": "## Remote control\n\n##### An eCommerce app for Arc’teryx, accessible from anywhere",
+              "category": "**Arc'teryx**\n\neCommerce Application",
+              "media_bg": true,
+              "component": "hero",
+              "background": "dark",
+              "full_screen": true,
+              "image_layers": "",
+              "image_mobile": "//a.storyblok.com/f/72339/1536x1536/32e7cd7c8b/bg-arcteryx-mobile.jpg",
+              "vertical_align": "middle",
+              "background_image": "",
+              "vertical_position": "bottom",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"7121e26a-48a0-48e7-b223-2469c9067f67\", \"id\": \"5186027\"}--\u003e"
+            },
+            {
+              "cta": [
+                {
+                  "_uid": "a866ed4c-a763-460d-8b4e-b151181a1e68",
+                  "title": "View details",
+                  "notitle": false,
+                  "external": false,
+                  "typeform": false,
+                  "component": "link",
+                  "destination": {
+                    "id": "175583c4-aa21-4f40-a45a-689f1d99527f",
+                    "url": "",
+                    "_uid": "daecd1f3-a073-475b-924a-10959575e2d6",
+                    "linktype": "story",
+                    "fieldtype": "multilink",
+                    "cached_url": "work/agi"
+                  },
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"a866ed4c-a763-460d-8b4e-b151181a1e68\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "_uid": "f60bf7b7-48f8-4446-bddd-89dbcb3a3a09",
+              "align": "left",
+              "image": "//a.storyblok.com/f/72339/1482x1214/eb6e5da837/img-agi.jpg",
+              "title": "AGI",
+              "video": "",
+              "content": "## Leading the\u0026nbsp;field\n##### Enabling AGI to grow globally with a transformed digital presence",
+              "category": "**AGI**\n\nDigital Platform",
+              "media_bg": false,
+              "component": "hero",
+              "background": "light",
+              "full_screen": true,
+              "image_layers": "",
+              "image_mobile": "",
+              "vertical_align": "middle",
+              "background_image": "",
+              "vertical_position": "middle",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"f60bf7b7-48f8-4446-bddd-89dbcb3a3a09\", \"id\": \"5186027\"}--\u003e"
+            },
+            {
+              "cta": [
+                {
+                  "_uid": "d0d114eb-7fbd-4817-960a-a1df9c603b2d",
+                  "title": "View project",
+                  "notitle": false,
+                  "external": false,
+                  "typeform": false,
+                  "component": "link",
+                  "destination": {
+                    "id": "f424db8a-aa50-4ad3-b061-476645ae7c00",
+                    "url": "",
+                    "linktype": "story",
+                    "fieldtype": "multilink",
+                    "cached_url": "work/constructconnect"
+                  },
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"d0d114eb-7fbd-4817-960a-a1df9c603b2d\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "_uid": "ddc8e0b5-8af8-4403-900e-fa1d5b1f7b29",
+              "align": "left",
+              "image": "//a.storyblok.com/f/72339/2880x1536/7a84c5bd91/bg-ccca.jpg",
+              "title": "Construct Connect",
+              "video": "",
+              "content": "## New \u003cbr\u003ebuild\n\n##### Helping ConstructConnect Canada deliver a better customer experience",
+              "category": "**ConstructConnect**\n\nDigital Platform",
+              "media_bg": true,
+              "component": "hero",
+              "background": "dark",
+              "full_screen": true,
+              "image_layers": "",
+              "image_mobile": "",
+              "vertical_align": "middle",
+              "background_image": "",
+              "vertical_position": "bottom",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"ddc8e0b5-8af8-4403-900e-fa1d5b1f7b29\", \"id\": \"5186027\"}--\u003e"
+            },
+            {
+              "cta": [
+                {
+                  "_uid": "c82c5b1b-a49d-473d-83ce-dcfe8224bcb9",
+                  "title": "View project",
+                  "notitle": false,
+                  "external": false,
+                  "typeform": false,
+                  "component": "link",
+                  "destination": {
+                    "id": "8ba42224-2101-4a28-aa23-aa16c6f68d0e",
+                    "url": "",
+                    "_uid": "fee44f10-68f0-4298-8fbf-91211d790e79",
+                    "linktype": "story",
+                    "fieldtype": "multilink",
+                    "cached_url": "work/sensitile"
+                  },
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"c82c5b1b-a49d-473d-83ce-dcfe8224bcb9\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "_uid": "29e44a73-69f9-4b67-99d1-f372e23e97fb",
+              "align": "left",
+              "image": "//a.storyblok.com/f/72339/1440x688/c16ed1ac5a/homesensitilecaroselimage3.png",
+              "title": "Sensitile",
+              "video": "",
+              "content": "## Architecting \u003cbr\u003eloyalty\n\n##### Growth marketing to drive website traffic for Sensitile Systems",
+              "category": "**Sensitile**\n\nGrowth Marketing",
+              "media_bg": true,
+              "component": "hero",
+              "background": "light",
+              "full_screen": true,
+              "image_layers": "",
+              "image_mobile": "",
+              "vertical_align": "middle",
+              "background_image": "",
+              "vertical_position": "bottom",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"29e44a73-69f9-4b67-99d1-f372e23e97fb\", \"id\": \"5186027\"}--\u003e"
+            },
+            {
+              "cta": [
+                {
+                  "_uid": "1259ab8a-63df-457a-81e1-c178b25a5b08",
+                  "title": "View details",
+                  "notitle": false,
+                  "external": false,
+                  "typeform": false,
+                  "component": "link",
+                  "destination": {
+                    "id": "c4f4f30e-17c0-4984-bf5b-d3f909d8ee5c",
+                    "url": "",
+                    "_uid": "75389d72-df9e-4b90-a779-8139f2cb97f3",
+                    "linktype": "story",
+                    "fieldtype": "multilink",
+                    "cached_url": "work/elastic-path"
+                  },
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"1259ab8a-63df-457a-81e1-c178b25a5b08\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "_uid": "03efbb81-3e90-4e89-8ac0-863607918aec",
+              "align": "left",
+              "image": "//a.storyblok.com/f/72339/1440x768/63dd557c37/elasticpathbackground.png",
+              "title": "Elastic Path",
+              "video": "",
+              "content": "## Communicating Commerce\n\n##### Empowering Elastic Path to tell their story with a new website",
+              "category": "**Elastic Path**\n\nDigital Platform",
+              "media_bg": true,
+              "component": "hero",
+              "background": "dark",
+              "full_screen": true,
+              "image_layers": "",
+              "image_mobile": "",
+              "vertical_align": "middle",
+              "background_image": "",
+              "vertical_position": "middle",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"03efbb81-3e90-4e89-8ac0-863607918aec\", \"id\": \"5186027\"}--\u003e"
+            }
+          ],
+          "autoplay": "15000",
+          "component": "hero_carousel",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"hero_carousel\", \"space\": \"72339\", \"uid\": \"34042523-c63e-4ef8-bc54-5c12965164d4\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [],
+          "_uid": "cb53d142-df88-4e04-8baa-db377f8cbafb",
+          "align": "right",
+          "image": "//a.storyblok.com/f/72339/935x876/7f6392097f/bg-insights3.png",
+          "title": "We combine data with human insights",
+          "video": "",
+          "content": "## We combine data with *human insights*\n\n##### to deliver digital products that are smart by nature and intuitive by design.\n\n* Apps\n* Platforms\n* Portals\n* Websites\n* eCommerce\n* Brand Experiences\n* Utilities\n* Digital Tools",
+          "category": "",
+          "media_bg": false,
+          "component": "hero",
+          "background": "light_gray",
+          "full_screen": true,
+          "image_layers": [
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/899x1068/1845136376/img-circle.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/1198x1168/6e5fa2be39/img-apply-phone.png"
+            }
+          ],
+          "image_mobile": "//a.storyblok.com/f/72339/750x608/bf61ae2d27/bg-insights-mobile.png",
+          "vertical_align": "middle",
+          "background_image": "",
+          "vertical_position": "bottom",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"cb53d142-df88-4e04-8baa-db377f8cbafb\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [
+            {
+              "_uid": "d13e6195-fedb-4ee0-b39e-74c05d248f99",
+              "title": "See our services",
+              "external": false,
+              "component": "link",
+              "destination": {
+                "id": "1c16fe64-143e-46b9-80c7-bc04227b8004",
+                "url": "",
+                "linktype": "story",
+                "fieldtype": "multilink",
+                "cached_url": "services"
+              },
+              "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"d13e6195-fedb-4ee0-b39e-74c05d248f99\", \"id\": \"5186027\"}--\u003e"
+            }
+          ],
+          "_uid": "108f528a-3e52-48f5-bcb8-5275f13f50d7",
+          "align": "",
+          "image": "//a.storyblok.com/f/72339/1010x1181/d5d05eee2f/bg-hands2.png",
+          "title": "Big picture thinking",
+          "video": "",
+          "content": "## Big picture *thinking*\n\n##### For your smart digital product to truly succeed, its planning and development should be viewed from a wider perspective—how the product will benefit your business, engage your end-user, and impact your brand. Our cycle of services looks at this bigger picture.",
+          "category": "",
+          "media_bg": false,
+          "component": "hero",
+          "background": "apply_blue",
+          "full_screen": true,
+          "image_layers": [
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/1351x1562/364d39c386/img-shape-bubble.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/1351x1562/4e0b96a36c/img-shape-double-ring.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/1351x1562/dbc2b9c420/img-shape-triangle.png"
+            },
+            {
+              "name": "",
+              "filename": "//a.storyblok.com/f/72339/1351x1562/e94cacf071/img-shape-oval.png"
+            }
+          ],
+          "image_mobile": "//a.storyblok.com/f/72339/750x752/b024c6fe7f/bg-hands-mobile.png",
+          "vertical_align": "middle",
+          "background_image": "",
+          "vertical_position": "bottom",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"108f528a-3e52-48f5-bcb8-5275f13f50d7\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [
+            {
+              "_uid": "275382a0-159e-4628-b1bf-40af56cb0a14",
+              "title": "Learn More",
+              "notitle": false,
+              "external": false,
+              "typeform": false,
+              "component": "link",
+              "destination": {
+                "id": "d49b0452-d37f-4197-a9ef-564a14568279",
+                "url": "",
+                "_uid": "e79a354d-3ab5-4581-aa53-514c68deabee",
+                "linktype": "story",
+                "fieldtype": "multilink",
+                "cached_url": "commerce"
+              },
+              "_editable": "\u003c!--#storyblok#{\"name\": \"link\", \"space\": \"72339\", \"uid\": \"275382a0-159e-4628-b1bf-40af56cb0a14\", \"id\": \"5186027\"}--\u003e"
+            }
+          ],
+          "_uid": "c6d47bf4-b677-4fd5-829c-e6c92a4c1989",
+          "align": "",
+          "image": "//a.storyblok.com/f/72339/663x685/7182368184/commerceheroimage.png",
+          "title": "Commerce Hero",
+          "video": "",
+          "content": "## *A Smarter Approach* to Commerce\n\n##### At Apply we believe in commerce that meets your technology needs and exceeds your business goals, improving every day.",
+          "test_id": "",
+          "category": "",
+          "media_bg": false,
+          "component": "hero",
+          "background": "dark_gray",
+          "full_screen": true,
+          "image_layers": [],
+          "image_mobile": "//a.storyblok.com/f/72339/561x685/0542ea9f78/commercehero2.png",
+          "vertical_align": "middle",
+          "background_image": "",
+          "vertical_position": "bottom",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"hero\", \"space\": \"72339\", \"uid\": \"c6d47bf4-b677-4fd5-829c-e6c92a4c1989\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [],
+          "_uid": "3f9c3467-9e09-4778-8f82-e2b376e9392b",
+          "body": [],
+          "image": "",
+          "ratio": "right",
+          "title": "Our Clients",
+          "shapes": [],
+          "content": "## *Our* Clients\n\n##### We partner with forward-thinking businesses at every stage of their growth. Our clients range from well-funded startups to Fortune 1000 leaders.",
+          "test_id": "",
+          "category": "",
+          "small_h1": false,
+          "component": "section_header",
+          "background": "light_gray",
+          "right_blok": [
+            {
+              "_uid": "2cc12cde-98db-4834-bf53-05f3f394a011",
+              "custom": "",
+              "padded": false,
+              "columns": [
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "f39577f4-89fe-46ac-8163-dec78fd87260",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "e51f62cf-eb07-4e39-9f9f-41cd96741fca",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "d5c50055-2b83-42b7-91cb-b5459c21d2d2",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/f01e4be160/client-arcterix.png",
+                      "title": "Arc'teryx",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"e51f62cf-eb07-4e39-9f9f-41cd96741fca\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"f39577f4-89fe-46ac-8163-dec78fd87260\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "2835124f-0c31-4ab5-9847-a49c1f246c3f",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "32a18404-d091-40c8-8542-54da23ad86e4",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "b43f52a5-3217-4b60-b0af-f8e290693e7d",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/beb9e5a6e0/client-disney.png",
+                      "title": "Disney",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"32a18404-d091-40c8-8542-54da23ad86e4\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"2835124f-0c31-4ab5-9847-a49c1f246c3f\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "45a1e01e-6ccf-4e6f-9999-534e589324bb",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "fc881f8b-abbe-43e9-a261-472662f8ed59",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "25545e56-c89d-4ad2-bc05-b1790da8abd0",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/40e9bca049/client-ea.png",
+                      "title": "EA",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"fc881f8b-abbe-43e9-a261-472662f8ed59\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"45a1e01e-6ccf-4e6f-9999-534e589324bb\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "c4769c0a-cdf6-4ee7-b38e-fa2d40d51bd3",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "a5804c69-978c-481e-b350-426fd5246a37",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "bace5776-7dbf-471e-ad43-68488dbb3b80",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/205x133/626e80a16d/client-freedom2.jpg",
+                      "title": "Freedom mobile",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"a5804c69-978c-481e-b350-426fd5246a37\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"c4769c0a-cdf6-4ee7-b38e-fa2d40d51bd3\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "0c97cdfd-be44-4a0b-b719-5b318703b11a",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "2ea61da1-56b6-4cd3-aa81-1efcc146e923",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "609a0940-54ea-4de6-9729-e168a93a4ce9",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/205x133/a1a05093d1/group-3.png",
+                      "title": "Lululemon",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"2ea61da1-56b6-4cd3-aa81-1efcc146e923\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"0c97cdfd-be44-4a0b-b719-5b318703b11a\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "f0c83417-7c60-4e8f-b280-8738b8b30afe",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "673677c1-5100-40b5-ab75-134eae51c659",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "6407a0e5-81f5-4055-937c-2ae97e42c23e",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/e061f073a9/client-evo.png",
+                      "title": "evo",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"673677c1-5100-40b5-ab75-134eae51c659\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"f0c83417-7c60-4e8f-b280-8738b8b30afe\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "525c16d7-0ada-4267-a9df-f6e0e5c5e0ca",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "e78b7522-8bbc-4bb3-ae95-30acf0799873",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "8beb460c-3551-41d3-a12f-5894fbb516ff",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/c01717ce98/client-pure.png",
+                      "title": "Pure",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"e78b7522-8bbc-4bb3-ae95-30acf0799873\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"525c16d7-0ada-4267-a9df-f6e0e5c5e0ca\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "29d21008-525b-4855-b36c-e4b6a62aa12e",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "849f8883-61d5-4dc7-8709-72c6584dac59",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "9675247d-a17e-403e-a05d-1c9dd60c8d1c",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/bbe57381ff/client-agi.png",
+                      "title": "AGI",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"849f8883-61d5-4dc7-8709-72c6584dac59\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"29d21008-525b-4855-b36c-e4b6a62aa12e\", \"id\": \"5186027\"}--\u003e"
+                },
+                {
+                  "lg": "",
+                  "md": "4",
+                  "sm": "",
+                  "xl": "",
+                  "xs": "4",
+                  "_uid": "a9e7b7d6-d814-4b95-8381-e06f2abcfdb7",
+                  "align": "center",
+                  "content": [
+                    {
+                      "_uid": "286a619a-5428-44c5-95eb-ee181e0e26b1",
+                      "link": {
+                        "id": "",
+                        "url": "",
+                        "_uid": "5b39080c-6532-48c8-b9d3-669fc5cf5330",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": ""
+                      },
+                      "size": "440x0",
+                      "image": "//a.storyblok.com/f/72339/440x260/8d28405041/client-tishman.png",
+                      "title": "Tishman",
+                      "notitle": true,
+                      "component": "image_link",
+                      "background": "dark_gray",
+                      "disable_lazyload": false,
+                      "_editable": "\u003c!--#storyblok#{\"name\": \"image_link\", \"space\": \"72339\", \"uid\": \"286a619a-5428-44c5-95eb-ee181e0e26b1\", \"id\": \"5186027\"}--\u003e"
+                    }
+                  ],
+                  "component": "column",
+                  "_editable": "\u003c!--#storyblok#{\"name\": \"column\", \"space\": \"72339\", \"uid\": \"a9e7b7d6-d814-4b95-8381-e06f2abcfdb7\", \"id\": \"5186027\"}--\u003e"
+                }
+              ],
+              "reverse": false,
+              "component": "grid",
+              "full_bleed": false,
+              "in_container": true,
+              "_editable": "\u003c!--#storyblok#{\"name\": \"grid\", \"space\": \"72339\", \"uid\": \"2cc12cde-98db-4834-bf53-05f3f394a011\", \"id\": \"5186027\"}--\u003e"
+            }
+          ],
+          "image_mobile": "",
+          "right_column": " ",
+          "image_underlay": false,
+          "no_padding_top": true,
+          "vertical_align": "middle",
+          "background_image": "",
+          "no_padding_bottom": true,
+          "_editable": "\u003c!--#storyblok#{\"name\": \"section_header\", \"space\": \"72339\", \"uid\": \"3f9c3467-9e09-4778-8f82-e2b376e9392b\", \"id\": \"5186027\"}--\u003e"
+        },
+        {
+          "cta": [],
+          "_uid": "6fb47435-c451-41de-88b7-63182532fe29",
+          "body": [
+            {
+              "_uid": "0dfc0174-ce01-4520-8c69-e34b1848f37f",
+              "limit": "3",
+              "component": "posts",
+              "_editable": "\u003c!--#storyblok#{\"name\": \"posts\", \"space\": \"72339\", \"uid\": \"0dfc0174-ce01-4520-8c69-e34b1848f37f\", \"id\": \"5186027\"}--\u003e"
+            }
+          ],
+          "image": "",
+          "ratio": "right",
+          "title": "Updates",
+          "shapes": [],
+          "content": "## Updates",
+          "category": "## ",
+          "small_h1": false,
+          "component": "section_header",
+          "background": "dark_gray",
+          "right_blok": [],
+          "image_mobile": "",
+          "right_column": "",
+          "vertical_align": "top",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"section_header\", \"space\": \"72339\", \"uid\": \"6fb47435-c451-41de-88b7-63182532fe29\", \"id\": \"5186027\"}--\u003e"
+        }
+      ],
+      "snap": false,
+      "summary": "",
+      "component": "page",
+      "featured_image": "//a.storyblok.com/f/72339/424x410/86b57311a0/frame-1.png",
+      "_editable": "\u003c!--#storyblok#{\"name\": \"page\", \"space\": \"72339\", \"uid\": \"0325797f-736e-47a5-a1ac-11e1571b4f8c\", \"id\": \"5186027\"}--\u003e"
+    },
+    "slug": "home",
+    "full_slug": "home",
+    "default_full_slug": null,
+    "sort_by_date": null,
+    "position": 110,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "768be5c3-a783-4a2e-9e1c-4891bc624371",
+    "first_published_at": "2020-03-12T16:30:34.000Z",
+    "release_id": null,
+    "lang": "default",
+    "path": null,
+    "translated_slugs": []
+  }
+}

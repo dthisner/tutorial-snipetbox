@@ -1,0 +1,26 @@
+{{template "base" .}}
+
+{{define "title"}}Profile{{end}}
+{{define "main"}}
+  <h2>Your Profile</h2>
+  <table>
+      {{with .User}}
+      <tr>
+        <th>Name</th>
+        <th>{{.Name}}</th>
+      </tr>
+      <tr>
+        <td>Email</a></td>
+        <td>{{.Email}}</td>
+      </tr>
+      <tr>
+        <td>Created</a></td>
+        <td>{{humanDate .Created}}</td>
+      </tr>
+      <tr>
+        <td>Password</a></td>
+        <td><a href="/user/change-password">Change Password</td>
+      </tr>
+      {{end}}
+    </table>
+{{end}}
